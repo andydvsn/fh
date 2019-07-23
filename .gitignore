@@ -1,0 +1,8 @@
+*.o
+*.cmd
+*.ko
+*.cm
+Module.symvers
+modules.order
+.tmp_versions
+.DS_Store
